@@ -29,4 +29,4 @@ public class IT26510294Lab6Q3 {
         System.out.println("RMS = " + rms);
     }
 }
-```
+
