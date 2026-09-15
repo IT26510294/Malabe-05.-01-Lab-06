@@ -24,4 +24,4 @@ public class IT26510294Lab6Q2C {
         input.close();
     }
 }
-```
+
